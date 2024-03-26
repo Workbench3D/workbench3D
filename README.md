@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Aleksander Krivosheev
+
+- 🔭 I’m currently working on SCADA Integrations Engineer
+
+From relevant experience, there is a pet project called [bond_search_tool](https://github.com/Workbench3D/bond_search_tool).
+The service consists of three interconnected components that automate the search and provision of information on profitable bonds using data from the MOEX.
 
 <!--
 **Workbench3D/workbench3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Workbench3D&theme=dark&layout=compact)
